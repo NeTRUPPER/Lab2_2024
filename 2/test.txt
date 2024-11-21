@@ -1,0 +1,5 @@
+./main --file set.data --query SETADD vlad
+./main --file set.data --query SET_AT vlad
+./main --file set.data --query SET_AT vlad1
+./main --file set.data --query SETADD vlad1
+./main --file set.data --query SETDEL vlad
